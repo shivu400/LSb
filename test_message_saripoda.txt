@@ -1,1 +1,0 @@
-This is a test message for saripoda.wav. Testing LSB steganography with depth 2. 
